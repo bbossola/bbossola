@@ -1,6 +1,6 @@
 ### Bruno Bossola
 #### CTO at [Meterian.io](https://www.meterian.io/).
-![CTO at [Meterian.io](https://www.meterian.io/).](https://www.flickr.com/photos/nasahqphoto/49953360043/)
+![Banner](https://www.nasa.gov/sites/default/files/thumbnails/image/curiosity_selfie.jpg)
 
 Passionate senior developer, still cracking code every day, trying to run his  own startup, believes in test and agile. 
 
