@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bruno Bossola
+#### CTO at [Meterian.io](https://www.meterian.io/).
+![CTO at [Meterian.io](https://www.meterian.io/).](https://www.flickr.com/photos/nasahqphoto/49953360043/)
 
-<!--
-**bbossola/bbossola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate senior developer, still cracking code every day, trying to run his  own startup, believes in test and agile. 
 
-Here are some ideas to get you started:
+Skills: Java NodeJS Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on securing your software, you either want it or not :) 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bbossola)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/bbossola)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bbossola/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/bbossola)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](bbossola)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bbossola.wordpress.com)  
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=bbossola&show_icons=true)![Profile views](https://gpvc.arturio.dev/bbossola)  
