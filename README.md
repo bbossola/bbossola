@@ -1,5 +1,4 @@
 ### Bruno Bossola  
-![Profile views](https://gpvc.arturio.dev/bbossola)  
 
 #### CTO at [Meterian.io](https://www.meterian.io/).
 Passionate senior developer, still cracking code every day, trying to run his  own startup, believes in test and agile.   
